@@ -6,6 +6,10 @@ Welcome to this repository! Here you will find a comprehensive collection of exe
 
 Each exercise in this repository reflects my commitment to mastering the fundamental skills needed to tackle real-world challenges in data science. Courses on Kaggle have provided me with a solid foundation, and these exercises represent my learning journey from basic concepts to advanced techniques.
 
+## 🚀 View Badge
+<img width="4800" height="2960" alt="Graduate" src="https://github.com/user-attachments/assets/5ad66a48-8af9-4ec3-966c-f63312cc6398" />
+
+
 ## 📂 Repository Courses:
 
 - [Intro to Machine Learning](#intro-to-machine-learning)
