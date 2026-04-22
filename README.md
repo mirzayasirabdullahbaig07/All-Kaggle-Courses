@@ -10,17 +10,12 @@ Each exercise in this repository reflects my commitment to mastering the fundame
 
 - [Intro to Machine Learning](#intro-to-machine-learning)
 - [Pandas](#pandas)
-- [Intermediate Machine Learning](#intermediate-machine-learning)
-- [Data Visualization](#data-visualization)
 - [Feature Engineering](#feature-engineering)
-- [Intro to SQL](#intro-to-sql)
 - [Advanced SQL](#advanced-sql)
-- [Intro to Deep Learning](#intro-to-deep-learning)
 - [Computer Vision](#computer-vision)
 - [Time Series](#time-series)
 - [Data Cleaning](#data-cleaning)
 - [Intro to AI Ethics](#intro-to-ai-ethics)
-- [Geospatial Analysis](#geospatial-analysis)
 - [Machine Learning Explainability](#machine-learning-explainability)
 - [Intro to Game AI and Reinforcement Learning](#intro-to-game-ai-and-reinforcement-learning)
   
